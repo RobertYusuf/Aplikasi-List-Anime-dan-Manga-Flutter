@@ -1,7 +1,6 @@
 # Aplikasi List Anime Manga Flutter
 
-
-A new Flutter application.
+Menggunakan data dari RestApi kitsu.io 
 
 ## Getting Started
 
